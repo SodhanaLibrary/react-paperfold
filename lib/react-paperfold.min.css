@@ -1,0 +1,2 @@
+.paperfold-parent{overflow:hidden;transition-property:height;transition-duration:.5s;perspective:1000px;transform-style:preserve-3d}.paperfold-parent__fold--up .paperfold-child{transform-origin:top;transform:rotateX(-90deg)}.paperfold-parent__fold--down .paperfold-child{transform-origin:bottom;transform:rotateX(90deg)}.paperfold-child{border:1px solid #ccc;transition-property:all;transition-duration:.5s;transform:rotateX(0deg);background-color:#ff0;margin:0}
+/*# sourceMappingURL=react-paperfold.min.css.map*/
